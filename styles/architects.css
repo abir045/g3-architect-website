@@ -120,6 +120,28 @@ nav {
 #quick-list {
   font-weight: 500;
 }
+/* feature section styles */
+.features {
+  gap: 140px;
+}
+
+#feature-section-title {
+  border-left: 5px solid #ff900e;
+  padding-left: 21px;
+}
+
+.feature-card {
+  padding: 30px;
+  box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.25);
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.feature-card .feature-title {
+  font-weight: 600;
+  font-size: 1.25rem;
+  margin: 0px 0px;
+}
 
 /* some facts related styles */
 .facts-container {
